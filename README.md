@@ -14,10 +14,10 @@
 ### 🚀 About Me
 
 - 👨‍💼 **Software Specialist at [SSL Wireless](https://sslwireless.com)**
-- 🧩 Leading the frontend architecture of a robust **ERP solution** used by industrial clients
-- 🔧 Tech Stack: `React`, `Tailwind CSS`, `Ant Design`, `Larvel`, `MY SQL`
-- 🔍 Collaborating closely with cross-functional teams to define logic flows and improve backend APIs & database queries
-- 🎯 Committed to writing scalable, maintainable, and modular code with performance in mind
+- 🧩 Leading the frontend architecture of a scalable **ERP solution** used by industrial clients
+- 🔧 Tech Stack: `React`, `Tailwind CSS`, `Ant Design`, `Laravel`, `MySQL`
+- 🔍 Collaborate with cross-functional teams on business logic, backend API designs, and performance tuning
+- 🎯 Focused on writing modular, efficient, and clean code across the fullstack
 
 ---
 
@@ -30,12 +30,18 @@
 
 #### ⚙️ Backend & Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=asp.net,asp.netcore web api,nodejs,express,mongodb,mssql,rdlc" />
+  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,mongodb,mysql" />
+</p>
+<p>
+  <strong>Additional:</strong> ASP.NET Core Web API, Laravel, RDLC Reports, MS SQL Server
 </p>
 
 #### 🛠 Dev Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,svn,visualsvn,vercel,netlify,figma,vscode,heroku,firebase" />
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,figma,vscode,heroku,firebase" />
+</p>
+<p>
+  <strong>Version Control:</strong> Git, SVN (VisualSVN)
 </p>
 
 ---
