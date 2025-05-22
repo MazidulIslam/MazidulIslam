@@ -1,16 +1,82 @@
-## Hi there 👋
+<h1 align="center">Hey 👋, I'm Md. Mazidul Islam</h1>
+<h3 align="center">🧑‍💻 Fullstack Software Engineer | Frontend Lead @ SSL Wireless</h3>
 
-<!--
-**MazidulIslam/MazidulIslam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=React+%7C+Tailwind+%7C+AntD+Specialist;Frontend+Leader+%7C+ERP+Engineer;Clean+Architecture+%7C+Code+Craftsman;Passionate+Fullstack+Developer" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MazidulIslam&label=Profile%20views&color=36bcf7&style=flat-square" alt="MazidulIslam" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 About Me
+
+- 👨‍💼 **Software Specialist at [SSL Wireless](https://sslwireless.com)**
+- 🧩 Leading the frontend architecture of a robust **ERP solution** used by industrial clients
+- 🔧 Tech Stack: `React`, `Tailwind CSS`, `Ant Design`, `Larvel`, `MY SQL`
+- 🔍 Collaborating closely with cross-functional teams to define logic flows and improve backend APIs & database queries
+- 🎯 Committed to writing scalable, maintainable, and modular code with performance in mind
+
+---
+
+### 🧰 Tech Stack
+
+#### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,redux,nextjs,tailwind,bootstrap,js,ts,html,css,antd,materialui,jquery" />
+</p>
+
+#### ⚙️ Backend & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=asp.net,asp.netcore web api,nodejs,express,mongodb,mssql,rdlc" />
+</p>
+
+#### 🛠 Dev Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,svn,visualsvn,vercel,netlify,figma,vscode,heroku,firebase" />
+</p>
+
+---
+
+### 🌟 Featured Projects
+
+| 🔥 Project | 🧠 Stack | 🔗 Live Demo | 💻 Code |
+|--------|-------|-----------|------|
+| Amazon Clone | Next.js | [Live](https://next-amazon-redesign.vercel.app/) | [Code](https://github.com/MazidulIslam/next-amazon-redesign) |
+| Pizza Slice | Next.js | [Live](https://new-pizza-restaurant.vercel.app/) | [Code](https://github.com/MazidulIslam/restaurant) |
+| Doctor's Portal | Express + React | – | [Code](https://github.com/MazidulIslam/doctors-portal-client) |
+| HooBank Landing Page | React | [Live](https://hoobank-chi-gules.vercel.app/) | [Code](https://github.com/MazidulIslam/hoobank) |
+| Finance Landing Page | React | [Live](https://finance-landing-page-two.vercel.app/) | [Code](https://github.com/MazidulIslam/finance-landing-page) |
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MazidulIslam&show_icons=true&theme=tokyonight&count_private=true&hide=stars" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MazidulIslam&theme=tokyonight" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MazidulIslam&theme=darkhub&no-frame=true&column=6&margin-w=10&margin-h=10" />
+</p>
+
+---
+
+### 📫 Get in Touch
+
+- 📧 Email: **mazidulislammym@gmail.com**  
+- 💼 [LinkedIn](https://www.linkedin.com/in/mazidul-islam-729506b8/)  
+- 🌐 [Portfolio](https://mazid-portfolio-website.vercel.app/)  
+- 🗂️ [GitHub](https://github.com/MazidulIslam)
+
+---
+
+> _“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
