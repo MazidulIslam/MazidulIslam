@@ -33,7 +33,7 @@
   <img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,mongodb,mysql" />
 </p>
 <p>
-  <strong>Additional:</strong> ASP.NET Core Web API, Laravel, RDLC Reports, MS SQL Server
+  <strong>Additional:</strong> ASP.NET Core Web API, RDLC Reports, MS SQL Server
 </p>
 
 #### 🛠 Dev Tools & Platforms
